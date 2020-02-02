@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Православац</string>
+    <string name="postLabel">POST</string>
+    <string name="ikona1">ikona_1.png</string>
+    <string name="add_to_list">Add To List</string>
+    <string name="select">Select Food</string>
+    <string name="izaberi_hranu">Izaberi hranu</string>
+    <string name="boh">BOH</string>
+</resources>
